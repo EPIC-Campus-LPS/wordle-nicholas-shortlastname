@@ -68,8 +68,8 @@ Methods
 - What is a constructor? What do we use it for? What happens when we don't define one?
 - A constructor is an initializer for an object which describes the methods and variables of an object. If you don't define one, it gives an error because the object doesn't exist
 - What is the generic syntax for a method header in Java?
-- methodName(argumentType argumentName){code}
+- methodType methodName(argumentType argumentName){output}
 - What is the difference between *public* and *private*?
 - Public can be used across all files, private can only be used in that file
 - How would I use Math.random() to get a random integer from 1 to 10?
-- You would multiply the number of Math.random() by 10, and then turn it into an into to round it.
+- You would multiply the number of Math.random() by 10, and then turn it into an integer to round it to the nearest whole number.
